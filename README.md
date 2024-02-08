@@ -1,6 +1,6 @@
 # my-java-codes
 This contains sorting algorithms and DSA concepts implemented in java.<br /><br />
-Credit to MICHEAL SAMBOL on youtube
+Credit to **Micheal Sambol** on youtube
 <br />
 (Data structures and algorithms in X minutes.)
 <br /><br />
