@@ -1,8 +1,8 @@
 # my-java-codes
 This contains sorting algorithms and DSA concepts implemented in java.<br /><br />
-1. bubble sort<br />
-2. insertion sort<br />
-3. selection sort<br />
+bubble sort<br />
+insertion sort<br />
+selection sort<br />
 <br /><br />
 Credit to MICHEAL SAMBOL<br />
 (visualise DSA concepts)<br /><br />
